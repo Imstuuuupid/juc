@@ -1,0 +1,5 @@
+*.log
+**/**/classes
+
+**/test
+**/generated-sources
