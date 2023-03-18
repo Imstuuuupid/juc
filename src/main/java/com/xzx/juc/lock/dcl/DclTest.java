@@ -1,4 +1,4 @@
-package com.xzx.juc.dcl;
+package com.xzx.juc.lock.dcl;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

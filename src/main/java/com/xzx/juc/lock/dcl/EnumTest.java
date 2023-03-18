@@ -1,4 +1,4 @@
-package com.xzx.juc.dcl;
+package com.xzx.juc.lock.dcl;
 
 /**
  * @author 谢子轩
